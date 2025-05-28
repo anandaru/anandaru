@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/anandaru](https://www.linkedin.com/in/arumillianand/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/anandaru](https://www.linkedin.com/in/arumillianand/)" target="_blank"><img src="https://www.linkedin.com/in/anandaru"/></a>
   <a href="mailto:anand.arumilli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://anandaru.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Apple&logoColor=white"/></a>
 </p>
