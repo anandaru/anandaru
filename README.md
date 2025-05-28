@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">👋 Hi, I'm Anand</h3>
+<h3 align="center">Engineer by training, philosopher by instinct, AI builder by obsession./h3>
 
 <p align="center">
   <em>Applied AI | AI Product Innovation | Passionate About Human-Centric Intelligence</em>
