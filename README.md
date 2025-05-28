@@ -29,4 +29,4 @@
 ## 🧠 Expertise Areas
 
 ```text
-🌟 AI Product Strategy | 🤖 MLOps & Transformers | 🔁 QA Automation (Oracle Cloud) | 🧬 NLP
+🌟 AI Product Strategy | 🤖 MLOps & Transformers | 🔁 Agentic AI | 🧬 NLP
