@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/anandaru/anandaru/assets/banner.png" alt="Anand A" width="100%" />
+  <img src="https://github.com/anandaru/anandaru/blob/main/banner.png?raw=true" alt="Anand Arumilli" width="100%" />
 </h1>
+
 
 <h3 align="center">👋 Hi, I'm Anand</h3>
 
