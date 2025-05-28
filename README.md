@@ -6,7 +6,7 @@
 <h3 align="center">👋 Hi, I'm Anand</h3>
 
 <p align="center">
-  <em>Applied AI | Product Strategy | QA Specialist | Reinventing AI in Fitness & Education</em>
+  <em>Applied AI | AI Product Innovation | Passionate About Human-Centric Intelligence</em>
 </p>
 
 <p align="center">
