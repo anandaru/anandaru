@@ -22,7 +22,7 @@
 |--------|------------|--------|
 | **Smart RAG Chatbot** | `LangChain`, `FAISS`, `Streamlit`, `HuggingFace` | ✅ Completed |
 | **Emotion-Aware Fitness Coach** | `Reinforcement Learning`, `EMA`, `TensorFlow` | 🧪 In Progress |
-| **QA Automation Chatbot (Oracle Cloud)** | `LLaMA`, `DeepSeek`, `Semantic Search` | 🔬 Testing |
+| **QA Automation Chatbot** | `LLaMA`, `DeepSeek`, `Semantic Search` | 🔬 Testing |
 
 ---
 
