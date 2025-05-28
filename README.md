@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/anandaru/anandaru/assets/your-banner.png" alt="Anand Arumilli" width="100%" />
+</h1>
 
-<!--
-**anandaru/anandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi, I'm Anand Arumilli</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Applied AI | Product Strategy | QA Specialist | Reinventing AI in Fitness & Education</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandaru" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anand.arumilli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://anandaru.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Apple&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 Current Projects
+
+| Project | Tech Stack | Status |
+|--------|------------|--------|
+| **Smart RAG Chatbot** | `LangChain`, `FAISS`, `Streamlit`, `HuggingFace` | ✅ Completed |
+| **Emotion-Aware Fitness Coach** | `Reinforcement Learning`, `EMA`, `TensorFlow` | 🧪 In Progress |
+| **QA Automation Chatbot (Oracle Cloud)** | `LLaMA`, `DeepSeek`, `Semantic Search` | 🔬 Testing |
+
+---
+
+## 🧠 Expertise Areas
+
+```text
+🌟 AI Product Strategy | 🤖 MLOps & Transformers | 🔁 QA Automation (Oracle Cloud) | 🧬 NLP
