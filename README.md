@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/anandaru/anandaru/blob/main/banner3.png?raw=true" alt="Anand Arumilli" width="100%" />
+  <img src="https://github.com/anandaru/anandaru/blob/main/github-header-image (2).png?raw=true" alt="Anand Arumilli" width="100%" />
 </h1>
 
 
