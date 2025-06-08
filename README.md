@@ -22,7 +22,7 @@
 | Project | Tech Stack | Status |
 |--------|------------|--------|
 | **Smart RAG Chatbot** | `LangChain`, `FAISS`, `Streamlit`, `HuggingFace` | ✅ Completed |
-| **Emotion-Aware Fitness Coach** | `Reinforcement Learning`, `EMA`, `TensorFlow` | 🧪 In Progress |
+| **Emotion-Aware Fitness Coach** | `Reinforcement Learning`, `EMA`, `Deep Q-Network (DQN)` | ✅ Completed |
 | **QA Automation Chatbot** | `LLaMA`, `DeepSeek`, `Semantic Search` | ✅ Completed|
 | **Extraction of contextual Info from Exercise Logs using LLMs** | `BERT`, `GPT`, `LLAMA2`, `RoBERTa`, `XLNet`, `Mistral7B` | ✅ Completed |
 
